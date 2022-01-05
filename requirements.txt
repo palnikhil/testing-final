@@ -2,7 +2,7 @@ Click==7.0
 fastapi==0.49.0
 h11==0.9.0
 httptools==0.1.1
-opencv-python-contrib-headless==4.1.0.25
+opencv-contrib-python-headless==4.1.0.25
 mediapipe
 numpy==1.19.3
 pydantic==1.4
